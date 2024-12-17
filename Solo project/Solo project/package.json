@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0ima44rmd",
+  "description": "https://scrimba.com/s0ima44rmd/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
